@@ -17,7 +17,7 @@ theme = "paper"
   rss = true                                # show rss icon
 # 
   # home page profile
-  avatar = './jamochl_logo.svg'                 # gravatar email or image url
+  avatar = 'https://jamsparrow.com/jamochl_logo.svg'                 # gravatar email or image url
   name = 'jamochl'
   bio = 'Camp x Linux'
 # 
