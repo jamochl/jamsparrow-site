@@ -1,7 +1,6 @@
-# baseURL = 'https://jamsparrow.com/'
-baseURL = './'
+baseURL = 'https://jamsparrow.com/'
 languageCode = 'en-us'
-title = 'Jamsparrow!'
+title = 'Jamsparrow'
 theme = "paper"
 
 # disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
